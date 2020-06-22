@@ -15,6 +15,7 @@
 		0992EFF9249BA3CD009CBA28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0992EFF7249BA3CD009CBA28 /* LaunchScreen.storyboard */; };
 		0992F004249BA3CD009CBA28 /* CardAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0992F003249BA3CD009CBA28 /* CardAnimationTests.swift */; };
 		0992F00F249BA3CD009CBA28 /* CardAnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0992F00E249BA3CD009CBA28 /* CardAnimationUITests.swift */; };
+		09C0F26F249D5A04008EED39 /* BottomCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C0F26E249D5A04008EED39 /* BottomCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0992F00A249BA3CD009CBA28 /* CardAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CardAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0992F00E249BA3CD009CBA28 /* CardAnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardAnimationUITests.swift; sourceTree = "<group>"; };
 		0992F010249BA3CD009CBA28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09C0F26E249D5A04008EED39 /* BottomCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				0992EFEC249BA3C9009CBA28 /* AppDelegate.swift */,
 				0992EFEE249BA3C9009CBA28 /* SceneDelegate.swift */,
 				0992EFF0249BA3C9009CBA28 /* ContentView.swift */,
+				09C0F26E249D5A04008EED39 /* BottomCard.swift */,
 				0992EFF2249BA3CD009CBA28 /* Assets.xcassets */,
 				0992EFF7249BA3CD009CBA28 /* LaunchScreen.storyboard */,
 				0992EFFA249BA3CD009CBA28 /* Info.plist */,
@@ -269,6 +272,7 @@
 			files = (
 				0992EFED249BA3C9009CBA28 /* AppDelegate.swift in Sources */,
 				0992EFEF249BA3C9009CBA28 /* SceneDelegate.swift in Sources */,
+				09C0F26F249D5A04008EED39 /* BottomCard.swift in Sources */,
 				0992EFF1249BA3C9009CBA28 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
